@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my GitHub profile! I'm passionate about Cybersecurity. Here's a bit about me:<br><br>🔭 I’m currently working on enhancing my skills in CyberSecurity techniques.<br>🌱 I’m currently learning about Pentesting and secure coding practices.<br>👯 I’m looking to collaborate on open-source projects related to cybersecurity.<br>💬 Ask me about anything related to cybersecurity, I'm always eager to learn and share knowledge.<br>📫 How to reach me: syedkhalid13055@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I enjoy participating in Capture The Flag (CTF) competitions in my free time.
+Welcome to my GitHub profile! I'm passionate about Cybersecurity. Here's a bit about me:<br><br>🔭 I’m currently working on enhancing my skills in CyberSecurity techniques.<br>🌱 I’m currently learning about Pentesting and secure coding practices.<br>👯 I’m looking to collaborate on open-source projects related to cybersecurity.<br>💬 Ask me about anything related to cybersecurity, I'm always eager to learn and share knowledge.<br>📫 How to reach me: syedkhalid13055@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I enjoy solving coding problems in my free time.
 
 
 ## 🌐 Socials:
