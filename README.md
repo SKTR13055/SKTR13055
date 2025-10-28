@@ -1,35 +1,62 @@
-# 💫 About Me:
-Welcome to my GitHub profile! I'm passionate about Cybersecurity. Here's a bit about me:<br><br>🔭 I’m currently working on enhancing my skills in CyberSecurity techniques.<br>🌱 I’m currently learning about Pentesting and secure coding practices.<br>👯 I’m looking to collaborate on open-source projects related to cybersecurity.<br>💬 Ask me about anything related to cybersecurity, I'm always eager to learn and share knowledge.<br>📫 How to reach me: syedkhalid13055@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I enjoy reading books in my free time.
+# Hello, I'm Syed Khalid Tipu Razvi
+<a href="https://linkedin.com/in/sktr13055"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+I’m passionate about technology and cybersecurity, with a strong dedication to solving complex problems and creating secure, efficient systems.
+
+## Objective
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sktr13055) 
+My journey in computer science has led me to develop a strong passion for cybersecurity. I am now eager to transition into this field, specifically aiming to begin my career as a Junior Cybersecurity Analyst, SOC Tier 1 Analyst, or Junior Penetration Tester.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=flat&logo=Prezi&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-## 👨🏻‍💻 Cybersecurity Platforms Progress
-
-### 🛡️ TryHackMe
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/3xtr3me.png)
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=SKTR13055&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SKTR13055&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Skills
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SKTR13055&limit=5&theme=dark&combine_all_yearly_contributions=true)
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Sysmonitor Implementation & MITRE ATT&CK          | <a href="https://google.com">Detection Lab</a>|
+| Web App Exploitation (Burp Suite) | <a href="https://medium.com/@SKTR13055/tryhackme-agent-t-quick-rce-writeup-remediation-1597b9fb0ee6">Try Hack me Lab</a>|
 
----
-[![](https://visitcount.itsvg.in/api?id=SKTR13055&icon=5&color=3)](https://visitcount.itsvg.in)
+## Tools
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ettercap-8B0000?&style=for-the-badge&logo=windows%20terminal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tcpdump-555555?&style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Netcat%20(nc)-2F4F4F?&style=for-the-badge&logo=Terminal&logoColor=white" />
+</div>
 
-<p align="center"><i>"Amateurs hack systems, professionals hack people."</i> – Bruce Schneier</p>
+### Penetration Testing
+<div>
+    <img src="https://img.shields.io/badge/-Metasploit-3C3C3D?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?&style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-009639?&style=for-the-badge&logo=Tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ffuf-0A0A0A?&style=for-the-badge&logo=windows%20terminal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-RustScan-000000?&style=for-the-badge&logo=rust&logoColor=white" />
+</div>
+
+### Reconnaissance/Intelligence Gathering
+<div>
+    <img src="https://img.shields.io/badge/-Recon--ng-DC143C?&style=for-the-badge&logo=Red%20Hat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SpiderFoot-2E8B57?&style=for-the-badge&logo=Spider&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Shodan-F50057?&style=for-the-badge&logo=Shodan&logoColor=white" />
+    <img src="https://img.shields.io/badge/-nslookup-4682B4?&style=for-the-badge&logo=Windows%20Terminal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-WHOIS-FF8C00?&style=for-the-badge&logo=Internet%20Explorer&logoColor=white" />
+</div>
 
 
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20(Coursera)-2A73CC?&style=for-the-badge&logo=Coursera&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Cisco%20Intro%20to%20Cybersecurity-1BA0D8?&style=for-the-badge&logo=Cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Cisco%20Cybersecurity%20Essentials-0072C6?&style=for-the-badge&logo=Cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/-NPTEL%20Ethical%20Hacking%20(Elite%2BGold)-228B22?&style=for-the-badge&logo=NPTEL&logoColor=white"/>
 
 
+</div>
 
+## Projects
+- Detection Lab
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
