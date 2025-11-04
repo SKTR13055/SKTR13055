@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a strong passion for cybers
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Nmap(Network Mapper)                          | [WebStrike Lab](https://github.com/SKTR13055/SKTR13055.github.io/blob/0498f2bfa35f059b9a258fbdc3a1550a51d55a9b/docs/WebStrike%20Lab/index.md) 
-| Sysmonitor Implementation & MITRE ATT&CK      | [Sysmon Detection Lab](https://github.com/SKTR13055/SKTR13055.github.io/blob/e20664f9c712388118e9a15c06c123f2f41b35f0/docs/Sysmon%20Detection%20Lab/index.md)
+| Sysmonitor Implementation & MITRE ATT&CK      | [Sysmon & MITRE Detection](https://github.com/SKTR13055/SKTR13055.github.io/blob/ba23cb59830afbb87dc809a6833e7ff467cc8eb1/docs/Sysmon%20%26%20MITRE%20Detection/index.md)
 | Web App Exploitation (Burp Suite) | <a href="https://medium.com/@SKTR13055/tryhackme-agent-t-quick-rce-writeup-remediation-1597b9fb0ee6">Try Hack me Lab</a>|
 
 ## Tools
@@ -59,5 +59,5 @@ My journey in computer science has led me to develop a strong passion for cybers
 </div>
 
 ## Projects
-- [Detection Lab](https://github.com/SKTR13055/SKTR13055.github.io/blob/e20664f9c712388118e9a15c06c123f2f41b35f0/docs/Sysmon%20Detection%20Lab/index.md)
+- [Detection Lab](https://github.com/SKTR13055/SKTR13055.github.io/blob/ba23cb59830afbb87dc809a6833e7ff467cc8eb1/docs/Sysmon%20%26%20MITRE%20Detection/index.md)
 
