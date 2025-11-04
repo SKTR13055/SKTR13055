@@ -13,7 +13,8 @@ My journey in computer science has led me to develop a strong passion for cybers
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Sysmonitor Implementation & MITRE ATT&CK          | <a href="https://google.com">Detection Lab</a>|
+| Nmap(Network Mapper)                          | [WebStrike Lab](https://github.com/SKTR13055/SKTR13055.github.io/blob/0498f2bfa35f059b9a258fbdc3a1550a51d55a9b/docs/WebStrike%20Lab/index.md) 
+| Sysmonitor Implementation & MITRE ATT&CK      | <a href="https://google.com">Detection Lab</a>|
 | Web App Exploitation (Burp Suite) | <a href="https://medium.com/@SKTR13055/tryhackme-agent-t-quick-rce-writeup-remediation-1597b9fb0ee6">Try Hack me Lab</a>|
 
 ## Tools
