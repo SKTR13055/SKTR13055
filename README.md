@@ -1,5 +1,6 @@
 # Hello, I'm Syed Khalid Tipu Razvi
 <a href="https://linkedin.com/in/sktr13055"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://sktr13055.github.io/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
 I’m passionate about technology and cybersecurity, with a strong dedication to solving complex problems and creating secure, efficient systems.
 
