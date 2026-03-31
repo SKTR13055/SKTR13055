@@ -61,4 +61,5 @@ My journey in computer science has led me to develop a strong passion for cybers
 
 ## Projects
 - [Detection Lab](https://sktr13055.github.io/posts/Sysmon-&-MITRE-ATT&CK/)
+- [Remote-Command-Enforcement-Insider-Threat-Detection-System](https://github.com/SKTR13055/Remote-Command-Enforcement-Insider-Threat-Detection-System)
 
