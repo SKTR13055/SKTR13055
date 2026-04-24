@@ -1,22 +1,35 @@
 # Hello, I'm Syed Khalid Tipu Razvi
-<a href="https://linkedin.com/in/sktr13055"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p align="left">
+  <a href="https://linkedin.com/in/sktr13055">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  &nbsp;&nbsp;<b>Let's connect and learn from each other!</b>
+</p>
+
 <a href="https://sktr13055.github.io/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
-I’m passionate about technology and cybersecurity, with a strong dedication to solving complex problems and creating secure, efficient systems.
+### 🛡️ About Me
 
-## Objective
+I am a dedicated Cybersecurity professional with a background in Computer Science and a focus on offensive security and threat detection. I specialize in identifying vulnerabilities through hands-on lab environments and developing robust systems to mitigate insider threats.
 
+🔭 Current Focus: Advancing my expertise in SOC operations, incident response, and penetration testing methodologies.
 
-My journey in computer science has led me to develop a strong passion for cybersecurity. I am now eager to transition into this field, specifically aiming to begin my career as a Junior Cybersecurity Analyst, SOC Tier 1 Analyst, or Junior Penetration Tester.
+🎯 Professional Goal: Transitioning into a Junior Cybersecurity Analyst, SOC Tier 1, or Junior Penetration Tester role.
 
-## Skills
+✍️ Technical Writing: I actively document my learning journey through detailed CTF write-ups and security lab reports.
 
+### 🚀 Featured Projects
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Nmap(Network Mapper)                          | [WebStrike Lab](https://sktr13055.github.io/posts/Webstrike-Lab/) 
-| Sysmonitor Implementation & MITRE ATT&CK      | [Sysmon & MITRE Detection](https://sktr13055.github.io/posts/Sysmon-&-MITRE-ATT&CK/)
-| Web App Exploitation (Burp Suite) | <a href="https://medium.com/@SKTR13055/tryhackme-agent-t-quick-rce-writeup-remediation-1597b9fb0ee6">Try Hack me Lab</a>|
+#### [Detection Lab: Sysmon & MITRE ATT&CK](https://sktr13055.github.io/posts/Sysmon-&-MITRE-ATT&CK/)
+* Implemented Sysmon for advanced endpoint logging.
+* Mapped adversary behavior to the MITRE ATT&CK framework to improve detection capabilities.
+
+#### [Insider Threat Detection System](https://github.com/SKTR13055/Remote-Command-Enforcement-Insider-Threat-Detection-System)
+* Developed a Python-based system for remote command enforcement.
+* Integrated secure activity logging to identify and alert on suspicious internal actions.
+
+#### [WebStrike Lab & Agent-T Writeup](https://medium.com/@SKTR13055/tryhackme-agent-t-quick-rce-writeup-remediation-1597b9fb0ee6)
+* Documented exploitation of RCE vulnerabilities and provided detailed remediation steps.
 
 ## Tools
 ### Network
@@ -59,7 +72,4 @@ My journey in computer science has led me to develop a strong passion for cybers
 
 </div>
 
-## Projects
-- [Detection Lab](https://sktr13055.github.io/posts/Sysmon-&-MITRE-ATT&CK/)
-- [Remote-Command-Enforcement-Insider-Threat-Detection-System](https://github.com/SKTR13055/Remote-Command-Enforcement-Insider-Threat-Detection-System)
 
