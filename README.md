@@ -20,16 +20,16 @@ I am a dedicated Cybersecurity professional with a background in Computer Scienc
 
 ### 🚀 Featured Projects
 
-#### [Detection Lab: Sysmon & MITRE ATT&CK](https://sktr13055.github.io/posts/Sysmon-&-MITRE-ATT&CK/)
-* Implemented Sysmon for advanced endpoint logging.
-* Mapped adversary behavior to the MITRE ATT&CK framework to improve detection capabilities.
+#### [M.Tech Dissertation: AI: Friend or Foe? An Experimental Evaluation of LLM-Assisted Malware Classification Under Adversarial Conditions](https://sktr13055.github.io/posts/AI-Friend-Or-Foe/)
+* Evaluated five Large Language Models (LLMs) for malware classification across plain, obfuscated, Base92-encoded, and AES-encrypted payloads.
+* Compared classification behaviour across three prompt strategies, including a benign AES control to investigate false-positive behaviour.
+* Explored an automation prototype for future LLM benchmarking, encouraging researchers to contribute improvements and extend the framework for cybersecurity research.
 
-#### [Insider Threat Detection System](https://github.com/SKTR13055/Remote-Command-Enforcement-Insider-Threat-Detection-System)
-* Developed a Python-based system for remote command enforcement.
-* Integrated secure activity logging to identify and alert on suspicious internal actions.
+#### [Building a Vulnerable Active Directory Lab for Pen testing](https://sktr13055.github.io/posts/Building-a-Vulnerable-Active-Directory-Lab-for-Pen-testing/)
+- **What it is:** A step-by-step guide to building a vulnerable Active Directory lab (Windows Server 2022 domain controller plus two Windows 11 workstations) in VMware, for practicing penetration testing. Based on my notes from TCM Security's *Practical Ethical Hacking* course, with my own screenshots and 2026 updates.
+- **What you'll build and practice:** A `MARVEL.local` domain with users, groups, a service account with an SPN, an SMB share, Active Directory Certificate Services and Group Policy, with deliberate weaknesses that let you practice Kerberoasting, password spraying, SMB attacks and credential reuse.
+- **Lab only:** Everything here is intentionally insecure. Run it on an isolated Host-only network, never on a production or home network, and never copy these settings into a real environment.
 
-#### [WebStrike Lab & Agent-T Writeup](https://medium.com/@SKTR13055/tryhackme-agent-t-quick-rce-writeup-remediation-1597b9fb0ee6)
-* Documented exploitation of RCE vulnerabilities and provided detailed remediation steps.
 
 ## Tools
 ### Network
